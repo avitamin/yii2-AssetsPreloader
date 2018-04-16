@@ -1,0 +1,16 @@
+{
+  "name": "avitamin/yii2-AssetsPreloader",
+  "description": "Загрузчик Assets Bundles",
+  "type": "yii2-extension",
+  "minimum-stability": "stable",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Vitaliy Antonov",
+      "email": "antonovvit@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": ">2.0"
+  }
+}
