@@ -1,5 +1,5 @@
 {
-  "name": "avitamin/yii2-AssetsPreloader",
+  "name": "avitamin/yii2-assets-preloader",
   "description": "Загрузчик Assets Bundles",
   "type": "yii2-extension",
   "minimum-stability": "stable",
